@@ -1,9 +1,9 @@
 {
   "bin": {
-    "your-command-here": "./index.js"
+    "print-resume": "./index.js"
   },
   "name": "anthonymaddox-resume",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "",
   "main": "index.js",
   "scripts": {
